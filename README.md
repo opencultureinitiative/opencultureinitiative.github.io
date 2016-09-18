@@ -29,3 +29,11 @@ good people.
 While we call on leaders of Christian organizations to act Biblically, our
 primary mission is to educate all members of these organizations so that change
 can be effected from within.
+
+### Contract Transparency
+
+All employees should be given standard contracts for their job description. A copy of each type of contract should be publicly available for review by employees. Ideally, salaries should also be public to ensure that employers are not taking advantage of certain workers.
+
+### Clear Employee Handbooks
+
+Employees should know what is expected of them. Handbooks should include job descriptions for all positions, including administrative.
